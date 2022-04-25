@@ -7,7 +7,7 @@ In this toy project, we aim to build a deep learning clssifier that predicts whe
 
   Cat            |  Dog
 :--------------:|:--------:
-![](figures/cat.0.jpg)  |  ![](figures/dog.0.jpg)
+![](figures/cat.1.jpg)  |  ![](figures/dog.4.jpg)
 
 
 
@@ -86,11 +86,11 @@ ___
 
 <div style="display:flex;align-items:center">
     <div>
-        <h5> <a href='..'> Mr. A </a> </h5> <img src="figures/cat.0.jpg" height= 7% width= 7%>
+        <h5> <a href='..'> Mr. A </a> </h5> <img src="figures/cat.1.jpg" height= 7% width= 7%>
 <div>
-    <h5> <a href='.'> Mr. B </a> </h5> <img src="figures/cat.0.jpg" height= 7% width= 7%>
+    <h5> <a href='.'> Mr. B </a> </h5> <img src="figures/cat.1.jpg" height= 7% width= 7%>
     
 <div>
-    <h5> <a href='.'> Mm. K </a> </h5> <img src="figures/cat.0.jpg" height= 7% width= 7%>
+    <h5> <a href='.'> Mm. K </a> </h5> <img src="figures/cat.1.jpg" height= 7% width= 7%>
     
 </div>
